@@ -1,2 +1,2 @@
 # dio.me
-Projetos
+Repositório utilizado para entrega de projetos do dio.me
